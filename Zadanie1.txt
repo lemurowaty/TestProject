@@ -1,0 +1,4 @@
+int main()
+{
+	//to jest przykladowy kod
+}
